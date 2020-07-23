@@ -51,6 +51,7 @@ main {
     color: white;
     border-radius: 10px;
     border: none;
+    outline: none;
     padding: 0 10px;
 }
 .pokemon-list h1 {
